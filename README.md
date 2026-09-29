@@ -166,6 +166,6 @@ It delivers actionable insights, reduces manual work, and enables data-driven de
 
 👨‍💻 Author
 
-Ritesh Kumar Verma
+Aman Kumar
 Cloud & AI Engineer
-📧 Email | 🔗 LinkedIn | 🧠 GitHub
+
