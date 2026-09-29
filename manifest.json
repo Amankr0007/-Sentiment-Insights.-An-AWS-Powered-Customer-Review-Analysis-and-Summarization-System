@@ -1,0 +1,14 @@
+{
+  "fileLocations": [
+    {
+      "URIPrefixes": [
+        "s3://processed-reviews-bucket24/"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "CSV",
+    "delimiter": ",",
+    "containsHeader": "true"
+  }
+}

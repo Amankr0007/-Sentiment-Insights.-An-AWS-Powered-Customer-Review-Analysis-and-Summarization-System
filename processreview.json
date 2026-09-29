@@ -1,0 +1,12 @@
+{
+    "Records": [{
+        "s3": {
+            "bucket": {
+                "name": "rieshproject24"
+            },
+            "object": {
+                "key": "eCommerce_Reviews_500 new.csv"
+            }
+        }
+    }]
+}
